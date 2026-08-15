@@ -1,0 +1,9 @@
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- NLTK
+- Matplotlib
+- Seaborn
+- WordCloud
+- Jupyter Notebook
